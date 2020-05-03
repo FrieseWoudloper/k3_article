@@ -1,9 +1,6 @@
-# travis_make_pdflatex
+# k3_article
 
 Branch   |[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)
 ---------|----------------------------------------------------------------------------------------------------------------------------------------------------
-`master` |[![Build Status](https://travis-ci.org/richelbilderbeek/travis_make_pdflatex.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_make_pdflatex)
-`develop`|[![Build Status](https://travis-ci.org/richelbilderbeek/travis_make_pdflatex.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/travis_make_pdflatex)
-
-[Travis CI make example](https://github.com/richelbilderbeek/travis_make_tutorial)
-of using `pdflatex`.
+`master` |[![Build Status](https://travis-ci.org/friesewoudloper/k3_article.svg?branch=master)](https://travis-ci.org/friesewoudloper/k3_article)
+`develop`|[![Build Status](https://travis-ci.org/friesewoudloper/k3_article.svg?branch=develop)](https://travis-ci.org/friesewoudloper/k3_article)
